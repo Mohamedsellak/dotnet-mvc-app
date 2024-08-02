@@ -9,20 +9,188 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/css/tiny-slider.css",
+      "PackagePath": "staticwebassets/css/tiny-slider.css"
+    },
+    {
       "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/0208YY000808073.jpg",
-      "PackagePath": "staticwebassets/images/0208YY000808073.jpg"
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/bag.svg",
+      "PackagePath": "staticwebassets/images/bag.svg"
     },
     {
-      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/0208YY012050876.png",
-      "PackagePath": "staticwebassets/images/0208YY012050876.png"
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/bowl-2.png",
+      "PackagePath": "staticwebassets/images/bowl-2.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/bowl-3.png",
+      "PackagePath": "staticwebassets/images/bowl-3.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/cart.svg",
+      "PackagePath": "staticwebassets/images/cart.svg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/couch.png",
+      "PackagePath": "staticwebassets/images/couch.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/cross.svg",
+      "PackagePath": "staticwebassets/images/cross.svg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/dots-green.svg",
+      "PackagePath": "staticwebassets/images/dots-green.svg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/dots-light.svg",
+      "PackagePath": "staticwebassets/images/dots-light.svg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/dots-yellow.svg",
+      "PackagePath": "staticwebassets/images/dots-yellow.svg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/envelope-outline.svg",
+      "PackagePath": "staticwebassets/images/envelope-outline.svg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/img-grid-1.jpg",
+      "PackagePath": "staticwebassets/images/img-grid-1.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/img-grid-2.jpg",
+      "PackagePath": "staticwebassets/images/img-grid-2.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/img-grid-3.jpg",
+      "PackagePath": "staticwebassets/images/img-grid-3.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/person-1.jpg",
+      "PackagePath": "staticwebassets/images/person-1.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/person-1.png",
+      "PackagePath": "staticwebassets/images/person-1.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/person_1.jpg",
+      "PackagePath": "staticwebassets/images/person_1.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/person_2.jpg",
+      "PackagePath": "staticwebassets/images/person_2.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/person_3.jpg",
+      "PackagePath": "staticwebassets/images/person_3.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/person_4.jpg",
+      "PackagePath": "staticwebassets/images/person_4.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/post-1.jpg",
+      "PackagePath": "staticwebassets/images/post-1.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/post-2.jpg",
+      "PackagePath": "staticwebassets/images/post-2.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/post-3.jpg",
+      "PackagePath": "staticwebassets/images/post-3.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/product-1.png",
+      "PackagePath": "staticwebassets/images/product-1.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/product-2.png",
+      "PackagePath": "staticwebassets/images/product-2.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/product-3.png",
+      "PackagePath": "staticwebassets/images/product-3.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0208YY000808073.jpg",
+      "PackagePath": "staticwebassets/images/products/0208YY000808073.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0208YY012050876.png",
+      "PackagePath": "staticwebassets/images/products/0208YY012050876.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0208YY115948780.png",
+      "PackagePath": "staticwebassets/images/products/0208YY115948780.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0208YY124200453.png",
+      "PackagePath": "staticwebassets/images/products/0208YY124200453.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0208YY124225334.png",
+      "PackagePath": "staticwebassets/images/products/0208YY124225334.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0208YY125054667.png",
+      "PackagePath": "staticwebassets/images/products/0208YY125054667.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0208YY125121637.png",
+      "PackagePath": "staticwebassets/images/products/0208YY125121637.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0208YY130307656.png",
+      "PackagePath": "staticwebassets/images/products/0208YY130307656.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0208YY130836025.png",
+      "PackagePath": "staticwebassets/images/products/0208YY130836025.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/return.svg",
+      "PackagePath": "staticwebassets/images/return.svg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/sofa.png",
+      "PackagePath": "staticwebassets/images/sofa.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/support.svg",
+      "PackagePath": "staticwebassets/images/support.svg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/truck.svg",
+      "PackagePath": "staticwebassets/images/truck.svg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/user.svg",
+      "PackagePath": "staticwebassets/images/user.svg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets/images/why-choose-us-img.jpg"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/js/custom.js",
+      "PackagePath": "staticwebassets/js/custom.js"
     },
     {
       "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/js/tiny-slider.js",
+      "PackagePath": "staticwebassets/js/tiny-slider.js"
     },
     {
       "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/lib/bootstrap/LICENSE",

@@ -35,7 +35,7 @@ public class ProductsController : Controller {
         string newfileName = DateTime.Now.ToString("ddMMYYHHmmssfff");
         var extension = Path.GetExtension(productDto.Image.FileName);
         string imageName = newfileName + extension;
-        var path = Path.Combine(environment.WebRootPath, "images", imageName);
+        var path = Path.Combine(environment.WebRootPath, "images/products", imageName);
         using (var fileStream = new FileStream(path, FileMode.Create))
         {
             productDto.Image.CopyTo(fileStream);
@@ -102,7 +102,7 @@ public class ProductsController : Controller {
             string newImageName = DateTime.Now.ToString("ddMMYYHHmmssfff") + Path.GetExtension(productDto.Image.FileName);
 
             // Define the path where the new image will be saved
-            var newPath = Path.Combine(environment.WebRootPath, "images", newImageName);
+            var newPath = Path.Combine(environment.WebRootPath, "images/products", newImageName);
 
             // Save the new image
             using (var fileStream = new FileStream(newPath, FileMode.Create))
@@ -113,7 +113,7 @@ public class ProductsController : Controller {
             // Delete the old image if it exists
             if (!string.IsNullOrEmpty(product.Image))
             {
-                var oldPath = Path.Combine(environment.WebRootPath, "images", product.Image);
+                var oldPath = Path.Combine(environment.WebRootPath, "images/products", product.Image);
                 if (System.IO.File.Exists(oldPath))
                 {
                     System.IO.File.Delete(oldPath);
@@ -142,7 +142,7 @@ public class ProductsController : Controller {
             return RedirectToAction("Index","Products");
         }
 
-        string imageFullPath = environment.WebRootPath + "/images" + product.Image;
+        string imageFullPath = environment.WebRootPath + "/images/products" + product.Image;
         System.IO.File.Delete(imageFullPath);
 
         context.Products.Remove(product);
