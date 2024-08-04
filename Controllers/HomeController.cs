@@ -6,12 +6,11 @@ namespace MyDotNetApp.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+
     private readonly AppDbContext context;
 
-    public HomeController(ILogger<HomeController> logger,AppDbContext context)
+    public HomeController(AppDbContext context)
     {
-        _logger = logger;
         this.context = context;
     }
 
@@ -27,6 +26,28 @@ public class HomeController : Controller
         var products = context.Products.ToList();
 
         return View(products);
+    }
+
+    public IActionResult About()
+    {
+        return View();
+    }
+
+    public IActionResult Services()
+    {
+        var products = context.Products.ToList();
+
+        return View(products);
+    }
+
+    public IActionResult Blog()
+    {
+        return View();
+    }
+
+    public IActionResult Contact()
+    {
+        return View();
     }
 
 
