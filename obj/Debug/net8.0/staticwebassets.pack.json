@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets/images/envelope-outline.svg"
     },
     {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/favicon.png",
+      "PackagePath": "staticwebassets/images/favicon.png"
+    },
+    {
       "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/img-grid-1.jpg",
       "PackagePath": "staticwebassets/images/img-grid-1.jpg"
     },
@@ -109,18 +113,6 @@
       "PackagePath": "staticwebassets/images/post-3.jpg"
     },
     {
-      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/product-1.png",
-      "PackagePath": "staticwebassets/images/product-1.png"
-    },
-    {
-      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/product-2.png",
-      "PackagePath": "staticwebassets/images/product-2.png"
-    },
-    {
-      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/product-3.png",
-      "PackagePath": "staticwebassets/images/product-3.png"
-    },
-    {
       "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0208YY000808073.jpg",
       "PackagePath": "staticwebassets/images/products/0208YY000808073.jpg"
     },
@@ -155,6 +147,10 @@
     {
       "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0208YY130836025.png",
       "PackagePath": "staticwebassets/images/products/0208YY130836025.png"
+    },
+    {
+      "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/products/0808YY135228597.jpg",
+      "PackagePath": "staticwebassets/images/products/0808YY135228597.jpg"
     },
     {
       "Id": "/home/sellak/Desktop/MyDotNetApp/wwwroot/images/return.svg",
