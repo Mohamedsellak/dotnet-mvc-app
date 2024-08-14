@@ -1,3 +1,8 @@
+using Microsoft.EntityFrameworkCore;
+using Moq;
+using MyDotNetApp.Controllers;
+using MyDotNetApp.Models;
+
 public class HomeControllerTests
 {
     private readonly HomeController _controller;
@@ -30,7 +35,7 @@ public void Index_ReturnsViewResult_WithListOfProducts()
     _mockProductsSet.As<IQueryable<Product>>().Setup(m => m.GetEnumerator()).Returns(products.GetEnumerator());
 
     // Act
-    var result = _controller.Index() as ViewResult;
+    var result = _controller.Index() as ViewResultr;
 
     // Assert
     var model = Assert.IsType<List<Product>>(result?.ViewData.Model);
