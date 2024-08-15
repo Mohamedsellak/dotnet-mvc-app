@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDotNetApp", "MyDotNetApp.csproj", "{FB8FBEED-E371-4117-A3DD-5AF1090A32C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDotNetApp", "MyDotNetApp\MyDotNetApp.csproj", "{18E5901E-9325-405B-AB8E-9D4E3867BEEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDotNetAppTest", "MyDotNetAppTest\MyDotNetAppTest.csproj", "{826D6796-6EB3-4984-9268-B15B4B8D3248}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FB8FBEED-E371-4117-A3DD-5AF1090A32C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FB8FBEED-E371-4117-A3DD-5AF1090A32C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FB8FBEED-E371-4117-A3DD-5AF1090A32C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FB8FBEED-E371-4117-A3DD-5AF1090A32C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E5901E-9325-405B-AB8E-9D4E3867BEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E5901E-9325-405B-AB8E-9D4E3867BEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E5901E-9325-405B-AB8E-9D4E3867BEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E5901E-9325-405B-AB8E-9D4E3867BEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826D6796-6EB3-4984-9268-B15B4B8D3248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826D6796-6EB3-4984-9268-B15B4B8D3248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826D6796-6EB3-4984-9268-B15B4B8D3248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826D6796-6EB3-4984-9268-B15B4B8D3248}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

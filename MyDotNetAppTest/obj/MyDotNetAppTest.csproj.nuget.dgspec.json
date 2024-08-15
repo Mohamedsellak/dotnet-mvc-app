@@ -1,26 +1,144 @@
 {
   "format": 1,
   "restore": {
-    "/home/sellak/Desktop/MyDotNetApp/MyDotNetAppTest/MyDotNetAppTest.csproj": {}
+    "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetAppTest\\MyDotNetAppTest.csproj": {}
   },
   "projects": {
-    "/home/sellak/Desktop/MyDotNetApp/MyDotNetApp.csproj": {
+    "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetAppTest\\MyDotNetAppTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sellak/Desktop/MyDotNetApp/MyDotNetApp.csproj",
-        "projectName": "MyDotNetApp",
-        "projectPath": "/home/sellak/Desktop/MyDotNetApp/MyDotNetApp.csproj",
-        "packagesPath": "/home/sellak/.nuget/packages/",
-        "outputPath": "/home/sellak/Desktop/MyDotNetApp/obj/",
+        "projectUniqueName": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetAppTest\\MyDotNetAppTest.csproj",
+        "projectName": "MyDotNetAppTest",
+        "projectPath": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetAppTest\\MyDotNetAppTest.csproj",
+        "packagesPath": "C:\\Users\\HIKANOSDEVICE\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetAppTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/sellak/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HIKANOSDEVICE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetApp\\MyDotNetApp.csproj": {
+                "projectPath": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetApp\\MyDotNetApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetApp\\MyDotNetApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetApp\\MyDotNetApp.csproj",
+        "projectName": "MyDotNetApp",
+        "projectPath": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetApp\\MyDotNetApp.csproj",
+        "packagesPath": "C:\\Users\\HIKANOSDEVICE\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HIKANOSDEVICE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -85,101 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/home/sellak/Desktop/MyDotNetApp/MyDotNetAppTest/MyDotNetAppTest.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/home/sellak/Desktop/MyDotNetApp/MyDotNetAppTest/MyDotNetAppTest.csproj",
-        "projectName": "MyDotNetAppTest",
-        "projectPath": "/home/sellak/Desktop/MyDotNetApp/MyDotNetAppTest/MyDotNetAppTest.csproj",
-        "packagesPath": "/home/sellak/.nuget/packages/",
-        "outputPath": "/home/sellak/Desktop/MyDotNetApp/MyDotNetAppTest/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/home/sellak/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "/home/sellak/Desktop/MyDotNetApp/MyDotNetApp.csproj": {
-                "projectPath": "/home/sellak/Desktop/MyDotNetApp/MyDotNetApp.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Testing": {
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.8.0, )"
-            },
-            "Moq": {
-              "target": "Package",
-              "version": "[4.20.70, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.9.0, )"
-            },
-            "xunit.runner.visualstudio": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.8.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

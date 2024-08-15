@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Moq;
 using MyDotNetApp.Controllers;
+using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
 using MyDotNetApp.Models;
 
 public class HomeControllerTests
@@ -35,7 +37,7 @@ public void Index_ReturnsViewResult_WithListOfProducts()
     _mockProductsSet.As<IQueryable<Product>>().Setup(m => m.GetEnumerator()).Returns(products.GetEnumerator());
 
     // Act
-    var result = _controller.Index() as ViewResultr;
+    var result = _controller.Index() as ViewResult;
 
     // Assert
     var model = Assert.IsType<List<Product>>(result?.ViewData.Model);
@@ -107,35 +109,6 @@ public void Contact_ReturnsViewResult()
     Assert.NotNull(result);
 }
 
-[Fact]
-public void About_ReturnsViewResult()
-{
-    // Act
-    var result = _controller.About() as ViewResult;
-
-    // Assert
-    Assert.NotNull(result);
-}
-
-[Fact]
-public void Blog_ReturnsViewResult()
-{
-    // Act
-    var result = _controller.Blog() as ViewResult;
-
-    // Assert
-    Assert.NotNull(result);
-}
-
-[Fact]
-public void Contact_ReturnsViewResult()
-{
-    // Act
-    var result = _controller.Contact() as ViewResult;
-
-    // Assert
-    Assert.NotNull(result);
-}
 
 
 [Fact]

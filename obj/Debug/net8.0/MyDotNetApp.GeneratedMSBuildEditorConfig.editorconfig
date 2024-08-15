@@ -9,79 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyDotNetApp
 build_property.RootNamespace = MyDotNetApp
-build_property.ProjectDir = /home/sellak/Desktop/MyDotNetApp/
+build_property.ProjectDir = D:\Projects\IntellisecSolutions\EdegeProtector\sources\temp\dotnet-mvc-app\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/sellak/Desktop/MyDotNetApp
+build_property.MSBuildProjectDirectory = D:\Projects\IntellisecSolutions\EdegeProtector\sources\temp\dotnet-mvc-app
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Home/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Home/Blog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9CbG9nLmNzaHRtbA==
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Home/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Home/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Home/Services.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TZXJ2aWNlcy5jc2h0bWw=
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Home/Shop.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TaG9wLmNzaHRtbA==
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Home/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Products/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvQ3JlYXRlLmNzaHRtbA==
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Products/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRWRpdC5jc2h0bWw=
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Products/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvSW5kZXguY3NodG1s
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Users/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvQ3JlYXRlLmNzaHRtbA==
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Users/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvRWRpdC5jc2h0bWw=
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Users/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvSW5kZXguY3NodG1s
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sellak/Desktop/MyDotNetApp/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-i04ff6uqkh
+[D:/Projects/IntellisecSolutions/EdegeProtector/sources/temp/dotnet-mvc-app/MyDotNetApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlEb3ROZXRBcHBcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2jbnz7mlac

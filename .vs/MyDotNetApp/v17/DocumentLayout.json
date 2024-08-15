@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826D6796-6EB3-4984-9268-B15B4B8D3248}|MyDotNetAppTest\\MyDotNetAppTest.csproj|d:\\projects\\intellisecsolutions\\edegeprotector\\sources\\temp\\dotnet-mvc-app\\mydotnetapptest\\homecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826D6796-6EB3-4984-9268-B15B4B8D3248}|MyDotNetAppTest\\MyDotNetAppTest.csproj|solutionrelative:mydotnetapptest\\homecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E5901E-9325-405B-AB8E-9D4E3867BEEC}|MyDotNetApp\\MyDotNetApp.csproj|d:\\projects\\intellisecsolutions\\edegeprotector\\sources\\temp\\dotnet-mvc-app\\mydotnetapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E5901E-9325-405B-AB8E-9D4E3867BEEC}|MyDotNetApp\\MyDotNetApp.csproj|solutionrelative:mydotnetapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826D6796-6EB3-4984-9268-B15B4B8D3248}|MyDotNetAppTest\\MyDotNetAppTest.csproj|d:\\projects\\intellisecsolutions\\edegeprotector\\sources\\temp\\dotnet-mvc-app\\mydotnetapptest\\mydotnetapptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{826D6796-6EB3-4984-9268-B15B4B8D3248}|MyDotNetAppTest\\MyDotNetAppTest.csproj|solutionrelative:mydotnetapptest\\mydotnetapptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDotNetAppTest.csproj",
+              "DocumentMoniker": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetAppTest\\MyDotNetAppTest.csproj",
+              "RelativeDocumentMoniker": "MyDotNetAppTest\\MyDotNetAppTest.csproj",
+              "ToolTip": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetAppTest\\MyDotNetAppTest.csproj",
+              "RelativeToolTip": "MyDotNetAppTest\\MyDotNetAppTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T18:08:06.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyDotNetApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyDotNetApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:07:37.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeControllerTest.cs",
+              "DocumentMoniker": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetAppTest\\HomeControllerTest.cs",
+              "RelativeDocumentMoniker": "MyDotNetAppTest\\HomeControllerTest.cs",
+              "ToolTip": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetAppTest\\HomeControllerTest.cs",
+              "RelativeToolTip": "MyDotNetAppTest\\HomeControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:05:53.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
