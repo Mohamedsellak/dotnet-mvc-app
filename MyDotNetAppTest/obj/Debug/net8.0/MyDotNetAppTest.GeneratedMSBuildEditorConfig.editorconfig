@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyDotNetAppTest
-build_property.ProjectDir = D:\Projects\IntellisecSolutions\EdegeProtector\sources\temp\dotnet-mvc-app\MyDotNetAppTest\
+build_property.ProjectDir = /home/sellak/Desktop/dotnet-mvc-app/MyDotNetAppTest/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

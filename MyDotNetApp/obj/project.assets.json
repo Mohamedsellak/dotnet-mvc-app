@@ -2545,33 +2545,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HIKANOSDEVICE\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/sellak/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetApp\\MyDotNetApp.csproj",
+      "projectUniqueName": "/home/sellak/Desktop/dotnet-mvc-app/MyDotNetApp/MyDotNetApp.csproj",
       "projectName": "MyDotNetApp",
-      "projectPath": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetApp\\MyDotNetApp.csproj",
-      "packagesPath": "C:\\Users\\HIKANOSDEVICE\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\IntellisecSolutions\\EdegeProtector\\sources\\temp\\dotnet-mvc-app\\MyDotNetApp\\obj\\",
+      "projectPath": "/home/sellak/Desktop/dotnet-mvc-app/MyDotNetApp/MyDotNetApp.csproj",
+      "packagesPath": "/home/sellak/.nuget/packages/",
+      "outputPath": "/home/sellak/Desktop/dotnet-mvc-app/MyDotNetApp/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\HIKANOSDEVICE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/sellak/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -2636,7 +2628,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
